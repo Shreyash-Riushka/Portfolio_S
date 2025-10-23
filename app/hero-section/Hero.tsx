@@ -1,3 +1,4 @@
+
 import Link from "next/link";
 import Image from "next/image";
 import { monaSans } from "../fonts/monaSans";
@@ -5,26 +6,6 @@ import { motion } from "framer-motion";
 import { imageAnimation, bodyAnimation } from "../animations/animations";
 import AnimatedWords from "../animations/AnimatedWords";
 import profile from "../../public/profile.jpeg";
-
-import { useRef } from 'react';
-import VariableProximity from './VariableProximity';
-
-const containerRef = useRef(null);
-
-<div
-ref={containerRef}
-style={{position: 'relative'}}
->
-  <VariableProximity
-    label={'Hover me! And then star React Bits on GitHub, or else...'}
-    className={'variable-proximity-demo'}
-    fromFontVariationSettings="'wght' 400, 'opsz' 9"
-    toFontVariationSettings="'wght' 1000, 'opsz' 40"
-    containerRef={containerRef}
-    radius={100}
-    falloff='linear'
-  />
-</div>
 
 const Hero = () => {
   return (
@@ -82,7 +63,25 @@ const Hero = () => {
             target="_blank"
             aria-label="View Twitter Profile"
           >
-            
+            <motion.p
+              className="text-[16px] font-bold text-[#e4ded7] md:text-[16px]"
+              variants={bodyAnimation}
+            >
+              TW
+            </motion.p>
+          </Link>
+          <Link
+            href="https://contra.com/victorwilliams"
+            target="_blank"
+            aria-label="View Contra Profile"
+          >
+            <motion.p
+              className="text-[16px] font-bold text-[#e4ded7] md:text-[16px]"
+              variants={bodyAnimation}
+            >
+              CO
+            </motion.p>
+          </Link>
         </div>
       </div>
 
@@ -146,9 +145,9 @@ const Hero = () => {
           className="  hidden max-w-[500px] lg:block lg:max-w-[420px]"
           variants={bodyAnimation}
         >
-          <p className="'variable-proximity-demo'>"
+          <p className="text-right text-[16px] font-semibold text-[#e4ded7] md:text-[20px]">
              I am adept at wireframing and utilizing Figma for product design, ensuring seamless user experiences.
-            India.
+            Nigeria.
           </p>
         </motion.div>
       </div>
