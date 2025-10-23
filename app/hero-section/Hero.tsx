@@ -148,7 +148,7 @@ const Hero = () => {
         >
           <p className="'variable-proximity-demo'>
              I am adept at wireframing and utilizing Figma for product design, ensuring seamless user experiences.
-            Nigeria.
+            India.
           </p>
         </motion.div>
       </div>
