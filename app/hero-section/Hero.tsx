@@ -43,7 +43,7 @@ const Hero = () => {
               className="text-[16px] font-bold text-[#e4ded7] md:text-[16px]"
               variants={bodyAnimation}
             >
-              GH
+              GITHUB
             </motion.p>
           </Link>
           <Link
@@ -55,7 +55,7 @@ const Hero = () => {
               className="text-[16px] font-bold text-[#e4ded7] md:text-[16px]"
               variants={bodyAnimation}
             >
-              LN
+              LINKEDIN
             </motion.p>
           </Link>
           <Link
