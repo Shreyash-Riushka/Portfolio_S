@@ -68,7 +68,7 @@ const Hero = () => {
               variants={bodyAnimation}
             >
             
-        </div>
+       
       </div>
 
       <div className="-mt-36 flex flex-col items-center justify-center sm:-mt-20 lg:my-40 lg:-mt-2 lg:py-40 ">
