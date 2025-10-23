@@ -146,7 +146,7 @@ const Hero = () => {
           className="  hidden max-w-[500px] lg:block lg:max-w-[420px]"
           variants={bodyAnimation}
         >
-          <p className="'variable-proximity-demo'>
+          <p className="'variable-proximity-demo'>"
              I am adept at wireframing and utilizing Figma for product design, ensuring seamless user experiences.
             India.
           </p>
