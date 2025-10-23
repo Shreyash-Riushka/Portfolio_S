@@ -119,14 +119,14 @@ const Hero = () => {
           variants={bodyAnimation}
         >
           <p className="z-50 text-center text-[16px] font-medium text-[#e4ded7] md:text-[20px] lg:text-left">
-            Frontend Engineer and Web Designer, prev at{" "}
+            Product Manager, Graphic Designer, prev at CARS24{" "}, OYO, Plobal apps.
             <Link
-              href="https://www.korahq.com/"
+              href="https://www.cars24.com/"
               target="_blank"
               className="underline underline-offset-2 hover:no-underline"
               aria-label="Kora Website"
             >
-              Kora,
+              CARS24,
             </Link>{" "}
             currently available for work.
           </p>
