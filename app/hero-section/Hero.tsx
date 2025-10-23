@@ -1,4 +1,3 @@
-
 import Link from "next/link";
 import Image from "next/image";
 import { monaSans } from "../fonts/monaSans";
@@ -6,6 +5,26 @@ import { motion } from "framer-motion";
 import { imageAnimation, bodyAnimation } from "../animations/animations";
 import AnimatedWords from "../animations/AnimatedWords";
 import profile from "../../public/profile.jpeg";
+
+import { useRef } from 'react';
+import VariableProximity from './VariableProximity';
+
+const containerRef = useRef(null);
+
+<div
+ref={containerRef}
+style={{position: 'relative'}}
+>
+  <VariableProximity
+    label={'Hover me! And then star React Bits on GitHub, or else...'}
+    className={'variable-proximity-demo'}
+    fromFontVariationSettings="'wght' 400, 'opsz' 9"
+    toFontVariationSettings="'wght' 1000, 'opsz' 40"
+    containerRef={containerRef}
+    radius={100}
+    falloff='linear'
+  />
+</div>
 
 const Hero = () => {
   return (
@@ -127,7 +146,7 @@ const Hero = () => {
           className="  hidden max-w-[500px] lg:block lg:max-w-[420px]"
           variants={bodyAnimation}
         >
-          <p className="text-right text-[16px] font-semibold text-[#e4ded7] md:text-[20px]">
+          <p className="'variable-proximity-demo'>
              I am adept at wireframing and utilizing Figma for product design, ensuring seamless user experiences.
             Nigeria.
           </p>
