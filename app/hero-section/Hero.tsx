@@ -137,7 +137,7 @@ const Hero = () => {
             >
               OYO,
              </Link>{" "}
-            currently available for work.
+            driving product innovation and enhancing customer experiences.
           </p>
         </motion.div>
 
@@ -146,7 +146,7 @@ const Hero = () => {
           variants={bodyAnimation}
         >
           <p className="text-right text-[16px] font-semibold text-[#e4ded7] md:text-[20px]">
-            Focused on interfaces and experiences, working remotely from Lagos,
+             I am adept at wireframing and utilizing Figma for product design, ensuring seamless user experiences.
             Nigeria.
           </p>
         </motion.div>
