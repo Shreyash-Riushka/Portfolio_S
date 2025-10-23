@@ -119,7 +119,7 @@ const Hero = () => {
           variants={bodyAnimation}
         >
           <p className="z-50 text-center text-[16px] font-medium text-[#e4ded7] md:text-[20px] lg:text-left">
-            Product Manager, Graphic Designer, prev at CARS24{" "}, OYO, Plobal apps.
+            Product Manager, Graphic Designer, prev at {" "}
             <Link
               href="https://www.cars24.com/"
               target="_blank"
@@ -128,6 +128,15 @@ const Hero = () => {
             >
               CARS24,
             </Link>{" "}
+         
+            <Link
+              href="https://www.oyorooms.com/"
+              target="_blank"
+              className="underline underline-offset-2 hover:no-underline"
+              aria-label="Kora Website"
+            >
+              OYO,
+             </Link>{" "}
             currently available for work.
           </p>
         </motion.div>
