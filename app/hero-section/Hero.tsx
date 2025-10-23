@@ -147,7 +147,6 @@ const Hero = () => {
         >
           <p className="text-right text-[16px] font-semibold text-[#e4ded7] md:text-[20px]">
              I am adept at wireframing and utilizing Figma for product design, ensuring seamless user experiences.
-            India.
           </p>
         </motion.div>
       </div>
