@@ -58,7 +58,7 @@ const Hero = () => {
             </motion.p>
           </Link>
           <Link
-            href="https://twitter.com/victorwill__"
+            href="https://x.com/RiushkaShr86175"
             target="_blank"
             aria-label="View Twitter Profile"
           >
