@@ -19,7 +19,7 @@ export const devProjects = [
 Built PRDS for key features like Service History Manager & FASTag; optimized Challan Cache Logic, cutting API costs by 85%
 • Created RC backend panel for real-time status updates and integrating Digilocker & Bluedart, reducing RC grievances by 83%",
     technologies: ["React", "Tailwind CSS", "Framer Motion"],
-    github: "https://github.com/victorcodess/odunsi-web3-folio",
+    github: "https://drive.google.com/file/d/1EABlgj-Gsz60s7Z-qdshgvZRP3Md1WGU/view?usp=sharing",
     demo: "https://drive.google.com/file/d/1ClggdPMBaWuZ6Cd_Fm5TZbLj36bH9lU5/view?usp=sharing",
     image: require(".//../../public/projects/odunsi.png"),
     available: true,
