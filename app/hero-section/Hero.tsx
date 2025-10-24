@@ -1,4 +1,3 @@
-
 import Link from "next/link";
 import Image from "next/image";
 import { monaSans } from "../fonts/monaSans";
@@ -10,7 +9,7 @@ import profile from "../../public/profile.jpeg";
 const Hero = () => {
   return (
     <motion.section
-      className="relative z-10 flex h-[85vh] w-full items-stretch justify-center bg-[url('.//../public/hero.jpg')] bg-cover  bg-center py-0 sm:h-[90vh]  md:h-[100vh] 3xl:h-[85vh]"
+      className="relative z-10 flex h-[85vh] w-full items-stretch justify-center bg-[url('.//../public/hero.jpg')] bg-cover bg-center py-0 sm:h-[90vh] md:h-[100vh] 3xl:h-[85vh]"
       id="home"
       initial="initial"
       animate="animate"
@@ -25,7 +24,7 @@ const Hero = () => {
             aria-label="BOOK A CALL"
           >
             <motion.button
-              className="hidden rounded-md border-2 border-[#e4ded7] py-2 px-4 text-[14px] font-semibold text-[#e4ded7] sm:block  md:text-[16px] lg:block"
+              className="hidden rounded-md border-2 border-[#e4ded7] py-2 px-4 text-[14px] font-semibold text-[#e4ded7] sm:block md:text-[16px] lg:block"
               variants={bodyAnimation}
             >
               BOOK A CALL
@@ -67,7 +66,11 @@ const Hero = () => {
               className="text-[16px] font-bold text-[#e4ded7] md:text-[16px]"
               variants={bodyAnimation}
             >
-      </div>
+              TWITTER {/* Added the link text here */}
+            </motion.p> {/* Added the closing motion.p tag */}
+          </Link> {/* Added the closing Link tag */}
+        </div> {/* This closes the div with social links */}
+      </div> {/* This closes the div with BOOK A CALL and social links */}
 
       <div className="-mt-36 flex flex-col items-center justify-center sm:-mt-20 lg:my-40 lg:-mt-2 lg:py-40 ">
         <div
@@ -94,43 +97,41 @@ const Hero = () => {
       </div>
 
       <div
-        className="absolute bottom-10 flex items-center 
-      justify-center
-      md:bottom-10 lg:w-[90%] lg:max-w-[1440px] lg:justify-between"
+        className="absolute bottom-10 flex items-center justify-center md:bottom-10 lg:w-[90%] lg:max-w-[1440px] lg:justify-between"
       >
         <motion.div
-          className="  max-w-[350px] md:max-w-[400px] lg:max-w-[400px]"
+          className=" max-w-[350px] md:max-w-[400px] lg:max-w-[400px]"
           variants={bodyAnimation}
         >
           <p className="z-50 text-center text-[16px] font-medium text-[#e4ded7] md:text-[20px] lg:text-left">
-            Product Manager, Graphic Designer, prev at {" "}
+            Product Manager, Graphic Designer, prev at{" "}
             <Link
               href="https://www.cars24.com/"
               target="_blank"
               className="underline underline-offset-2 hover:no-underline"
-              aria-label="Kora Website"
+              aria-label="CARS24 Website"
             >
               CARS24,
             </Link>{" "}
-         
             <Link
               href="https://www.oyorooms.com/"
               target="_blank"
               className="underline underline-offset-2 hover:no-underline"
-              aria-label="Kora Website"
+              aria-label="OYO Website"
             >
               OYO,
-             </Link>{" "}
+            </Link>{" "}
             driving product innovation and enhancing customer experiences.
           </p>
         </motion.div>
 
         <motion.div
-          className="  hidden max-w-[500px] lg:block lg:max-w-[420px]"
+          className=" hidden max-w-[500px] lg:block lg:max-w-[420px]"
           variants={bodyAnimation}
         >
           <p className="text-right text-[16px] font-semibold text-[#e4ded7] md:text-[20px]">
-             I am adept at wireframing and utilizing Figma for product design, ensuring seamless user experiences.
+            I am adept at wireframing and utilizing Figma for product design,
+            ensuring seamless user experiences.
           </p>
         </motion.div>
       </div>
