@@ -134,7 +134,7 @@ const Contact = () => {
               aria-label="View Hashnode Profile"
             >
             
-              />
+              
             </Link>
           </div>
         </div>
