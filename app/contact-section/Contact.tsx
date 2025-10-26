@@ -108,7 +108,7 @@ const Contact = () => {
               <AnimatedTitle
                 text={"INSTAGRAM"}
                 className={
-                  "text-[16px] font-bold text-[#e4ded7] sm:text-[20px] md:text-[16px] lg:text-[28px]"
+                  "text-[16px] font-bold text-[#e4ded7] sm:text-[16px] md:text-[10px] lg:text-[16px]"
                 }
                 wordSpace={"mr-[0.25em]"}
                 charSpace={"mr-[0.01em]"}
