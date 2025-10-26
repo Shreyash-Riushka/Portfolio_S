@@ -13,9 +13,9 @@ const syne = Syne({
 export const metadata: Metadata = {
   title: "Shreyash_Singh_Portfolio",
   description:
-    "Frontend Engineer and Web Designer, currently at Kora. Focused on interfaces and experiences, working remotely from Lagos, Nigeria.",
+    "Product Manager, Graphic Designer, prev at CARS24, OYO, driving product innovation and enhancing customer experiences.",
   generator: "Next.js",
-  applicationName: "Victor Williams",
+  applicationName: "Shreyash Singh",
   keywords: [
     "freelance",
     "developer",
@@ -28,7 +28,7 @@ export const metadata: Metadata = {
     "creative developer",
     "creative engineer",
     "tech",
-    "nigeria",
+    "India",
     "software",
     "software developer",
     "portfolio",
@@ -37,11 +37,11 @@ export const metadata: Metadata = {
   ],
   colorScheme: "dark",
   openGraph: {
-    title: "Victor Williams — Frontend Engineer",
+    title: "Shreyash Singh-Product Manager",
     description:
-      "Frontend Engineer and Web Designer, currently at Kora. Focused on interfaces and experiences, working remotely from Lagos, Nigeria.",
-    url: "https://www.victorwilliams.me/",
-    siteName: "www.victorwilliams.me",
+      "I am adept at wireframing and utilizing Figma for product design, ensuring seamless user experiences.",
+    url: "https://portfolio-shreyash-singh.vercel.app/",
+    siteName: "https://portfolio-shreyash-singh.vercel.app/",
     images: [
       {
         url: "https://user-images.githubusercontent.com/84178696/228620835-e3cc5c9b-72fc-4f54-a628-407ef7b650f5.png",
