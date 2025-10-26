@@ -12,7 +12,7 @@ export type ProjectProps = {
 export const devProjects = [
   {
     id: 0,
-    name: "Odunsi",
+    name: "CARS24",
     description:
       "Portfolio website for Michael Odunsi, an experienced UI/UX designer crafting unique, user-friendly products and web experiences for Web3 founders and projects.",
     technologies: ["React", "Tailwind CSS", "Framer Motion"],
