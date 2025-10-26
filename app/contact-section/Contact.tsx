@@ -99,10 +99,7 @@ const Contact = () => {
                 wordSpace={"mr-[0.25em]"}
                 charSpace={"mr-[0.01em]"}
               />
-            </Link>
-           
-              
-            </Link>
+            
             <Link
               href="https://www.instagram.com/shreyashriushka?igsh=MXg1YXVpbDB0Z3RvMA=="
               target="_blank"
