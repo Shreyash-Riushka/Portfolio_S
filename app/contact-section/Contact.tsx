@@ -23,7 +23,7 @@ const Contact = () => {
           <AnimatedWords2
             title={"Let's Connect"}
             style={
-              "flex max-w-[500px] flex-col items-start text-left text-[150px] font-extrabold uppercase leading-[0.9em] text-[#e4ded7] sm:max-w-full sm:flex-row sm:items-center sm:justify-center sm:text-center sm:text-[50px] md:text-[100px] lg:text-center lg:text-[200px] xl:text-[250px]"
+              "flex max-w-[500px] flex-col items-start text-left text-[150px] font-extrabold uppercase leading-[0.9em] text-[#e4ded7] sm:max-w-full sm:flex-row sm:items-center sm:justify-center sm:text-center sm:text-[50px] md:text-[100px] lg:text-center lg:text-[150px] xl:text-[200px]"
             }
           />
       
