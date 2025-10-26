@@ -50,7 +50,7 @@ export const metadata: Metadata = {
         url: "https://github.com/Shreyash-Riushka/Portfolio_S/blob/main/Gemini_Generated_Image_f0pw7bf0pw7bf0pw.png",
         width: 1200,
         height: 630,
-        alt: "Victor Williams — Frontend Engineer",
+        alt: "Shreyash Singh - Product Manager",
       },
     ],
     locale: "en-US",
