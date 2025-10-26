@@ -71,7 +71,7 @@ const Contact = () => {
             </div>
           </div>
 
-          <div className="flex gap-10 text-[16px] font-bold text-[#e4ded7]  sm:gap-14 sm:text-[24px] md:gap-10 md:text-[16px] lg:gap-20 lg:text-[28px]">
+          <div className="flex gap-10 text-[16px] font-bold text-[#e4ded7]  sm:gap-14 sm:text-[16px] md:gap-10 md:text-[10px] lg:gap-20 lg:text-[16px]">
             <Link
               href="https://github.com/Shreyash-Riushka"
               target="_blank"
