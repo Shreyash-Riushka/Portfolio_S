@@ -41,7 +41,7 @@ const Contact = () => {
             />
             <div className="bor der mt-5 flex w-[298px] items-center gap-1 md:w-[335px] md:gap-2.5">
               <Link
-                href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSGKnMhSswsWrDDggrSlNTbRVwbnTbDTwLlhMCkwZRBWHzNCszTLtPtBxbmvhSDLddJXBDvV"
+                href="mailto:shreyashkumarsingh5@gmail.com"
                 target="_blank"
                 aria-label="Send me an email"
                 className="bor der mt-1 w-[147px] flex-1 underline underline-offset-2 hover:no-underline sm:mt-2 sm:w-[170px] md:mt-3 lg:mt-4"
@@ -80,7 +80,7 @@ const Contact = () => {
               <AnimatedTitle
                 text={"GITHUB"}
                 className={
-                  "text-[16px] font-bold text-[#e4ded7] sm:text-[20px] md:text-[16px] lg:text-[28px]"
+                  "text-[16px] font-bold text-[#e4ded7] sm:text-[16px] md:text-[10px] lg:text-[16px]"
                 }
                 wordSpace={"mr-[0.25em]"}
                 charSpace={"mr-[0.01em]"}
@@ -94,25 +94,14 @@ const Contact = () => {
               <AnimatedTitle
                 text={"LINKEDIN"}
                 className={
-                  "text-[16px] font-bold text-[#e4ded7] sm:text-[20px] md:text-[16px] lg:text-[28px]"
+                  "text-[16px] font-bold text-[#e4ded7] sm:text-[16px] md:text-[10px] lg:text-[16px]"
                 }
                 wordSpace={"mr-[0.25em]"}
                 charSpace={"mr-[0.01em]"}
               />
             </Link>
-            <Link
-              href="https://x.com/RiushkaShr86175"
-              target="_blank"
-              aria-label="View Twitter Profile"
-            >
-              <AnimatedTitle
-                text={"TWITTER"}
-                className={
-                  "text-[16px] font-bold text-[#e4ded7] sm:text-[20px] md:text-[16px] lg:text-[28px]"
-                }
-                wordSpace={"mr-[0.25em]"}
-                charSpace={"mr-[0.01em]"}
-              />
+           
+              
             </Link>
             <Link
               href="https://www.instagram.com/shreyashriushka?igsh=MXg1YXVpbDB0Z3RvMA=="
