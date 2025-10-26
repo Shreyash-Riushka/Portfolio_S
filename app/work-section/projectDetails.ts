@@ -12,15 +12,12 @@ export type ProjectProps = {
 export const devProjects = [
   {
     id: 0,
-    name: "CARS24",
+    name: "Odunsi",
     description:
-      "• Scoped and executed the SuperApp, including personalisation & cross-sell assets, resulting in additional GMV of INR 6.5 Cr
-• Devised GTM strategies, brand presence & CRM, resulting in 41% increase in Orbit (CARS24's Garage) monthly active users
-Built PRDS for key features like Service History Manager & FASTag; optimized Challan Cache Logic, cutting API costs by 85%
-• Created RC backend panel for real-time status updates and integrating Digilocker & Bluedart, reducing RC grievances by 83%",
+      "Portfolio website for Michael Odunsi, an experienced UI/UX designer crafting unique, user-friendly products and web experiences for Web3 founders and projects.",
     technologies: ["React", "Tailwind CSS", "Framer Motion"],
-    github: "https://drive.google.com/file/d/1EABlgj-Gsz60s7Z-qdshgvZRP3Md1WGU/view?usp=sharing",
-    demo: "https://drive.google.com/file/d/1ClggdPMBaWuZ6Cd_Fm5TZbLj36bH9lU5/view?usp=sharing",
+    github: "https://github.com/victorcodess/odunsi-web3-folio",
+    demo: "https://www.odunsi.xyz/",
     image: require(".//../../public/projects/odunsi.png"),
     available: true,
   },
