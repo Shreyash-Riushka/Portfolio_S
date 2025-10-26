@@ -18,7 +18,7 @@ export const devProjects = [
     technologies: ["Tableau", "Snowflake", "Jira"],
     github: "https://drive.google.com/file/d/1EABlgj-Gsz60s7Z-qdshgvZRP3Md1WGU/view?usp=drive_link",
     demo: "https://drive.google.com/file/d/1ClggdPMBaWuZ6Cd_Fm5TZbLj36bH9lU5/view?usp=drive_link",
-    image: require(".//../../public/projects/orbit.jpg"),
+    image: require(".//../../public/projects/orbit2.jpg"),
     available: true,
   },
   {
