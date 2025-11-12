@@ -20,7 +20,7 @@ export const reviewDetails = [
     name: "Gajendra Jangid",
     role: "CO-FOUNDER $ CMO",
     company: "CARS24",
-    profileImg: alex,
+    profileImg: g,
     testimonial:
       "Shreyash represents the kind of young talent every organization hopes to find, when we give emerging talents the space to experiment and create, they consistently exceed expectations and redefine what’s possible.",
   },
@@ -28,7 +28,7 @@ export const reviewDetails = [
     name: "Deependra Yadav",
     role: "SENIOR PRODUCT MANAGER",
     company: "CARS24",
-    profileImg: jerry,
+    profileImg: d,
     testimonial:
       "Driven by curiosity and exploration, Shreyash designs like a traveler, always discovering new perspectives and translating them into intuitive experiences that connect people and possibilities.",
   },
@@ -36,7 +36,7 @@ export const reviewDetails = [
     name: "Ritesh Agarwal",
     role: "FOUNDER",
     company: "OYO",
-    profileImg: mauro,
+    profileImg: r,
     testimonial:
       "If talent were a product, Shreyash would be the perfect MVP, fast to iterate, sharp on insight, and always improving through feedback. A designer built for collaboration, creativity, and impact.",
   },
