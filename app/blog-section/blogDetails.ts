@@ -29,21 +29,21 @@ export const blogDetails = [
     title: "MAURITIUS",
     image:
       require(".//../../public/Mauritius.jpg"),
-    date: "MAY 2024",
+    date: "JUNE 2019",
     url: "https://blog.victorwilliams.me/how-to-create-exit-animations-with-framer-motion",
     available: true,
   },
   {
-    title: "The Importance of Collaboration in Achieving Successful Design",
+    title: "AMAYA RESORT, KOLKATA",
     image:
       "https://github.com/victorcodess/folio-v1/assets/84178696/05656547-3206-42af-b081-83247f9a1063",
-    date: "MAY 2024",
+    date: "APRIL 2025",
     url: "https://blog.victorwilliams.me/importance-of-collaboration-in-design",
     available: true,
   },
   {
     title:
-      "Step-by-Step Guide: Adding Google Maps to Your React App Using Vis.gl",
+      "AMRITSAR",
     image:
       "https://github.com/victorcodess/folio-v1/assets/84178696/c2693469-e5c6-43ad-a857-693bbbfe7b9a",
     date: "APR 2024",
