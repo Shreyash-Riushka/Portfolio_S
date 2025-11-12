@@ -17,7 +17,7 @@ export type reviewProps = {
 
 export const reviewDetails = [
   {
-    name: "GAJENDRA JANGID",
+    name: "Gajendra Jangid",
     role: "CO-FOUNDER $ CMO",
     company: "CARS24",
     profileImg: alex,
@@ -25,7 +25,7 @@ export const reviewDetails = [
       "Shreyash represents the kind of young talent every organization hopes to find, when we give emerging talents the space to experiment and create, they consistently exceed expectations and redefine what’s possible.",
   },
   {
-    name: "DEEPENDRA",
+    name: "Deependra Yadav",
     role: "SENIOR PRODUCT MANAGER",
     company: "CARS24",
     profileImg: jerry,
@@ -33,7 +33,7 @@ export const reviewDetails = [
       "Driven by curiosity and exploration, Shreyash designs like a traveler, always discovering new perspectives and translating them into intuitive experiences that connect people and possibilities.",
   },
   {
-    name: "RITESH AGARWAL",
+    name: "Ritesh Agarwal",
     role: "FOUNDER",
     company: "OYO",
     profileImg: mauro,
