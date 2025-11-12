@@ -30,6 +30,7 @@ export const blogDetails = [
     image:
       require(".//../../public/mauritius.jpg"),
     date: "JUNE 2019",
+    url: "https://blog.victorwilliams.me/how-to-create-exit-animations-with-framer-motion",
     available: true,
   },
   {
