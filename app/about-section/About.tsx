@@ -25,23 +25,23 @@ const About = () => {
           <div className="mb-10 flex w-[100%] flex-col gap-4 text-[18px] font-medium  leading-relaxed tracking-wide text-[#e4ded7] md:mb-16 md:gap-6 md:text-[20px] md:leading-relaxed lg:mb-16  lg:max-w-[90%] lg:text-[24px] ">
             <AnimatedBody
               text={
-                "I specialize in crafting high-converting landing pages and websites for SaaS, Web3 & AI startups. I'm passionate about building software that makes a difference."
+                "I'm currently pursuing a B.S. in Chemistry at IIT Kharagpur, and have completed multiple internships across high-growth companies including CARS24, OYO, and CheQ. At CARS24, I worked on scaling their SuperApp, resulting in an INR 6.5 Cr GMV boost. I also built features like Service History Manager and FASTag recharge, and optimized Challan Cache logic, reducing API costs by 85%."
               }
             />
             <AnimatedBody
               text={
-                "Whether I’m designing a sleek user interface or coding a complex application, I’m always striving to create something unique and innovative. I love experimenting with new technologies and staying up-to-date with the latest trends in the tech world."
+                "At CheQ and OYO, I analyzed A/B test results, mapped user journeys, and built SQL dashboards to support product and growth teams, leading to notable improvements in user engagement and onboarding conversion metrics."
               }
               className={"hidden"}
             />
             <AnimatedBody
               text={
-                "Beyond my work as a frontend developer, I'm an active leader in tech communities on campus. As a member of the Google Developer Student Clubs and Microsoft Learn Student Ambassadors, I've led workshops and mentored other students."
+                "Beyond internships, I co-founded a t-shirt brand and led corporate/media partnerships worth INR 45L+ at IIT Kharagpur’s Entrepreneurship Cell. These diverse experiences have sharpened my ability to drive results across domains, whether it's user research, go-to-market planning, or product development."
               }
             />
             <AnimatedBody
               text={
-                "When I'm not coding, you can find me binge-watching anime, hanging out with friends, cheering on Manchester United, or discovering new music in my favorite genres like RnB, UK Drill, and Chill Rap."
+                "When I'm not working, you can find me binge-watching anime, hanging out with friends, cheering on Manchester United, or travelling to mountains."
               }
             />
             <AnimatedBody
