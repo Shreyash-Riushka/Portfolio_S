@@ -47,7 +47,7 @@ export const blogDetails = [
     image:
        require(".//../../public/am.jpg"),
     date: "JULY 2022",
-    url: "https://blog.victorwilliams.me/how-to-add-google-maps-to-react-app-visgl",
+    url: "https://drive.google.com/file/d/15S5GsqTptQIzFY442mYyNZ95-nTnOoVE/view?usp=sharing",
     available: true,
   },
   // {
