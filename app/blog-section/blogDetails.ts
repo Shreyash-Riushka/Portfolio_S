@@ -26,9 +26,9 @@ export const blogDetails = [
   //   available: false,
   // },
   {
-    title: "How to create exit animations with Framer Motion",
+    title: "MAURITIUS",
     image:
-      "https://cdn.hashnode.com/res/hashnode/image/upload/v1715345723909/c71d9691-fe4c-4302-b1cb-d9dca77a99b5.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp",
+      require(".//../../public/projects/orbit2.jpg"),
     date: "MAY 2024",
     url: "https://blog.victorwilliams.me/how-to-create-exit-animations-with-framer-motion",
     available: true,
