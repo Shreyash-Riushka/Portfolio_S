@@ -28,7 +28,7 @@ export const blogDetails = [
   {
     title: "MAURITIUS",
     image:
-      require(".//../../public/projects/orbit2.jpg"),
+      require(".//../../public/projects/mauritius.jpg"),
     date: "MAY 2024",
     url: "https://blog.victorwilliams.me/how-to-create-exit-animations-with-framer-motion",
     available: true,
