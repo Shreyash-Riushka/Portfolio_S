@@ -25,7 +25,7 @@ export const reviewDetails = [
       "Shreyash represents the kind of young talent every organization hopes to find, when we give emerging talents the space to experiment and create, they consistently exceed expectations and redefine what’s possible.",
   },
   {
-    name: "DEEPENDRA YADAV",
+    name: "DEEPENDRA",
     role: "SENIOR PRODUCT MANAGER",
     company: "CARS24",
     profileImg: jerry,
