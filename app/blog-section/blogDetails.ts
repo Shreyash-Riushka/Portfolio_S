@@ -29,12 +29,11 @@ export const blogDetails = [
     title: "MAURITIUS",
     image:
       require(".//../../public/mauritius.jpg"),
-    date: "MAY 2024",
-    url: "https://blog.victorwilliams.me/how-to-create-exit-animations-with-framer-motion",
+    date: "JUNE 2019",
     available: true,
   },
   {
-    title: "The Importance of Collaboration in Achieving Successful Design",
+    title: "AMAYA RESORT, KOLKATA",
     image:
       "https://github.com/victorcodess/folio-v1/assets/84178696/05656547-3206-42af-b081-83247f9a1063",
     date: "MAY 2024",
