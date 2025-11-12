@@ -34,7 +34,7 @@ export const blogDetails = [
     available: true,
   },
   {
-    title: "AMAYA RESORT, KOLKATA",
+    title: "KOLKATA",
     image:
       "https://github.com/victorcodess/folio-v1/assets/84178696/05656547-3206-42af-b081-83247f9a1063",
     date: "APRIL 2025",
