@@ -30,15 +30,15 @@ export const blogDetails = [
     image:
       require(".//../../public/Mauritius.jpg"),
     date: "JUNE 2019",
-    url: "https://blog.victorwilliams.me/how-to-create-exit-animations-with-framer-motion",
+    url: "https://drive.google.com/drive/folders/1g_XI1ac7OIgLX0ztkSeMY2KmU6Yy1rLN?usp=drive_link",
     available: true,
   },
   {
     title: "KOLKATA",
     image:
-      "https://github.com/victorcodess/folio-v1/assets/84178696/05656547-3206-42af-b081-83247f9a1063",
+      require(".//../../public/k.jpg"),
     date: "APRIL 2025",
-    url: "https://blog.victorwilliams.me/importance-of-collaboration-in-design",
+    url: "https://drive.google.com/drive/folders/1gGUv5UuHEXcQjBC8N1a7cUrmcRLEE3Gz?usp=sharing",
     available: true,
   },
   {
