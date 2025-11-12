@@ -23,10 +23,10 @@ export const devProjects = [
   },
   {
     id: 1,
-    name: "Interlock",
+    name: "OYO ",
     description:
-      "This is a website for a Fintech Startup to showcase their innovative solutions tailored to meet the evolving needs of their clients.",
-    technologies: ["React", "Tailwind CSS", "Framer Motion"],
+      "Conducted UX research and A/B testing on hotel interfaces, increasing booking conversion by 12%. Designed data dashboards (Metabase, SQL) to analyze property analytics and improve UX decisions.",
+    technologies: ["FIGMA", "ADOBE XD", "Framer Motion"],
     github: "https://github.com/victorcodess/interlock",
     demo: "https://interlock-teal.vercel.app/",
     image: require(".//../../public/projects/interlock.png"),
