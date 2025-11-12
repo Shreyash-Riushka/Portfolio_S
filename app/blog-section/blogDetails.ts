@@ -45,8 +45,8 @@ export const blogDetails = [
     title:
       "AMRITSAR",
     image:
-      "https://github.com/victorcodess/folio-v1/assets/84178696/c2693469-e5c6-43ad-a857-693bbbfe7b9a",
-    date: "APR 2024",
+       require(".//../../public/am.jpg"),
+    date: "JULY 2022",
     url: "https://blog.victorwilliams.me/how-to-add-google-maps-to-react-app-visgl",
     available: true,
   },
