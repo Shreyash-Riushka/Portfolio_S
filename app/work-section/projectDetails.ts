@@ -29,7 +29,7 @@ export const devProjects = [
     technologies: ["FIGMA", "ADOBE XD", "Framer Motion"],
     github: "https://github.com/victorcodess/interlock",
     demo: "https://interlock-teal.vercel.app/",
-    image: require(".//../../public/projects/oyo1.png"),
+    image: require(".//../../public/projects/oyo1.jpg"),
     available: true,
   },
 
