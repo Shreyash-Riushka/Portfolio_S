@@ -32,39 +32,7 @@ export const devProjects = [
     image: require(".//../../public/projects/oyo1.jpg"),
     available: true,
   },
-  {
-    id: 2,
-    name: "Synthetix",
-    description:
-      "Built specifically for an AI startup, this website lets them present cutting-edge AI data processing solutions tailored to their customers' needs.",
-    technologies: ["React", "Next.js", "Prismic CMS"],
-    github: "https://github.com/victorcodess/synthetix",
-    demo: "https://synthetix-iota.vercel.app/",
-    image: require(".//../../public/projects/synthetix-flip.png"),
-    available: true,
-  },
-  {
-    id: 3,
-    name: "Propellent",
-    description:
-      "A website built for a software startup and small business, to showcase their services and mark their online presence.",
-    technologies: ["React", "Tailwind CSS", "Framer Motion"],
-    github: "https://github.com/victorcodess/propellent",
-    demo: "https://propellent.vercel.app/",
-    image: require(".//../../public/projects/propellent-new.png"),
-    available: true,
-  },
-  {
-    id: 4,
-    name: "Flixify",
-    description:
-      "Flixify lets you seamlessly explore movies and TV series, add bookmarks, and search across all pages. It offers user authentication along with a theme switch.",
-    technologies: ["Next.js", "Typescript", "Prisma"],
-    github: "https://github.com/victorcodess/flixify",
-    demo: "https://flixify.victorwilliams.me/",
-    image: require(".//../../public/projects/flixify.png"),
-    available: true,
-  },
+ 
   // {
   //   id: 4,
   //   name: "SkyWatch",
