@@ -52,7 +52,15 @@ const BlogCard = ({ title, image, url, date, available, index }: blogProps) => {
               className="rounded-full"
               aria-label="Open Blog Post"
             >
-              
+              <FontAwesomeIcon
+                icon={faArrowRight}
+                className=" w-[16px] rounded-full bg-[#0E1016] p-3 text-[16px] text-[#fff] md:w-[20px] md:text-[20px] lg:w-[18px] lg:p-4 lg:text-[18px]"
+                data-blobity
+                data-blobity-radius="30"
+                data-blobity-offset-x="4"
+                data-blobity-offset-y="4"
+                data-blobity-magnetic="false"
+              />
             </Link>
           </>
         ) : (
