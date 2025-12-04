@@ -34,15 +34,15 @@ const Hero = () => {
 
         <div className="flex gap-10 text-[#e4ded7] sm:gap-12 md:gap-14 lg:gap-14">
           <Link
-            href="https://github.com/Shreyash-Riushka"
+            href="https://drive.google.com/drive/folders/1BVEN_Okm_-jaPiSeFaH1-s282KeZkD6s?usp=sharing"
             target="_blank"
-            aria-label="View GitHub Profile"
+            aria-label="View Work Profile"
           >
             <motion.p
               className="text-[16px] font-bold text-[#e4ded7] md:text-[16px]"
               variants={bodyAnimation}
             >
-              GITHUB
+              WORK DRIVE
             </motion.p>
           </Link>
           <Link
